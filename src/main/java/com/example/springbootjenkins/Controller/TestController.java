@@ -11,6 +11,6 @@ public class TestController {
     @RequestMapping("/test")
     public String getHello() {
 //        return "hello world jenkins!";
-        return "jsp/index.jsp";
+        return "jsp/index-dev.jsp";
     }
 }
