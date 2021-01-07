@@ -10,7 +10,11 @@ public class TestController {
 
 //aaaaaaaaaaaaaaa
 //zzzzzzzzzzzzz
+<<<<<<< HEAD
     //eeeeeeeeeeeeeeeeeeee
+=======
+    //lllllllllllllllllll
+>>>>>>> 417e216257106bdae9619bc6e305b3309231ff4a
     @RequestMapping("/test")
     public String getHello() {
 //        return "hello world jenkins!";
